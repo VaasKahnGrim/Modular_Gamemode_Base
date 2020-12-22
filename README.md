@@ -1,4 +1,4 @@
-# Moduler Gamemode Base
+# Modular Gamemode Base
 
 This gamemode base is designed around being able to change drastically depending on what map is currently loaded by the server.
 In its current state this gamemode base does not provide any additional functionality and simply handles the load order.
